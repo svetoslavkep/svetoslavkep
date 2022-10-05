@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @svetoslavkep
 - 👀 I’m interested in music and coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - ksvetlyo@gmail.com
 
 <!---
